@@ -1,5 +1,5 @@
 # Chess Dictionary Validator
-![Chess Board]('D:\Study\Python Learning\back-end\basics\ch5\Chess Dictionary Validator\board.jpeg')
+![Chess Board](D:\Study\Python Learning\back-end\basics\ch5\Chess Dictionary Validator\board.jpeg)
 
 ## Table of Contents
 - [Description](#description)
