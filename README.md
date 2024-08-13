@@ -82,9 +82,6 @@ Here is a list of chapters, each corresponding to a branch in this repository:
    python3 script_name.py
    ```
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
